@@ -9,7 +9,7 @@ A Python project to write data to a Google Sheet using Google Cloud user credent
 1. **Clone the repository:**
 
     ```sh
-    git clone <The_repository>
+    git clone git@github.com:sajjadsalehicb/google-sheets-writer.git
     cd sheet_writer
     ```
 
